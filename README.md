@@ -48,3 +48,4 @@ samples, guidance on mobile development, and a full API reference.
 ![lampiran alert delete](alert_delete.png)
 
 12. lampiran delete sukses
+![lampiran delete sukses](hapus_berhasil.png)
